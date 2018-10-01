@@ -1,17 +1,4 @@
-SPOJ
+<h1>Spoj Solution</h1>
 
 
-
-
-Always try to put yourself in shoes of question :
-
-Make some mistake 
-
-Do some research
-
-
-******************
-
-Now your ready to came herer !
-
-******************
+<h2>This Repositry try to give of solution of all the competative solution </h2>
